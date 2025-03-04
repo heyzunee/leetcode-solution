@@ -12,6 +12,7 @@ class Solution:
                 if countString(j):
                     return i
         return 0
+
     
 #         solution 2
 #         temp = ''   # chuoi temp
